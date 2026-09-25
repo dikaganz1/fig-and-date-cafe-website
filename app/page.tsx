@@ -46,7 +46,7 @@ export default function Page() {
       </section>
 
       <section id="story" className="story section-pad">
-        <div className="story-image image-frame"><img src="https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=1200&q=85" alt="Sunlit cafe table with coffee and food" /></div>
+        <div className="story-image image-frame"><img src="/images/place.jpeg" alt="Sunlit cafe table with coffee and food" /></div>
         <div className="story-copy"><p className="eyebrow dark-eyebrow">The Fig & Date feeling</p><h2>A place to slow down, gather and enjoy.</h2><p>Fig and Date Cafe brings together great coffee, comforting food and a relaxed cafe atmosphere in Buderim. Whether you&apos;re joining us for breakfast, meeting friends for coffee or simply taking a moment for yourself, our space is designed to make every visit feel special.</p><a className="text-link dark-link" href="#about">Our story <span>↗</span></a></div>
       </section>
 
